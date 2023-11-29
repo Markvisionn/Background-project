@@ -1,0 +1,3 @@
+Converting GML script: C:\Users\megab\AppData\Local\GameMakerStudio2\GMS2TEMP\1478134369_Bloom_shader_ee5e274f\mvc\conv\1478134369_Bloom_shader_fdcb923e\mvc\objects\object0\Create_0.gml
+String not found: ConversionLog_ConvertedString 2 'intensity' "intensity"
+String not found: ConversionLog_ConvertedString 3 'blurSize' "blurSize"
